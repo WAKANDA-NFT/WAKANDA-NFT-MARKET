@@ -1,6 +1,6 @@
 #WAKANDA NFT MARKET 
 
-
+ npm install -g truffle
 
 ## Installation
 1. Install Truffle globally.
